@@ -45,7 +45,7 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "pdfreader": "^1.0.4",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "validator": "^11.0.0"
   },
   "devDependencies": {

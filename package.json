@@ -46,7 +46,7 @@
     "passport-local": "^1.0.0",
     "pdfreader": "^1.0.4",
     "redis": "^2.8.0",
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",

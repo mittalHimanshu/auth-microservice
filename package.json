@@ -35,7 +35,7 @@
     "jsonwebtoken": "^8.5.1",
     "log4js": "^4.3.1",
     "module-alias": "^2.2.0",
-    "mongoose": "^5.5.14",
+    "mongoose": "^5.7.5",
     "mongoose-elasticsearch-xp": "^5.8.0",
     "mongoose-unique-validator": "^2.0.3",
     "node-record-lpcm16": "^0.3.1",

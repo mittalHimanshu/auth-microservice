@@ -27,7 +27,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "elasticsearch": "^16.1.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "express-session": "^1.16.2",
     "express-validator": "^5.3.1",
     "gstin-validator": "^0.2.5",
